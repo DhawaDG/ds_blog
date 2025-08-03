@@ -7,5 +7,5 @@ You'll find posts on topics like Python, SQL, Machine Learning, Statistics, and 
 
 | Date       | Blog Title           | Related To        |
 |------------|---------------------|-------------------|
-| 2024-06-01 | [Getting Started with Python for Data Science](blog/2024-06-01-getting-started-with-python-for-data-science.md) | Python, Data Science |
+| 2024-06-01 | [Python Fundamentals Blog Post](https://github.com/DhawaDG/ds_blog/blob/master/Python_fundamentals/py_blog1.md) | Python, Data Science |
 
