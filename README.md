@@ -14,7 +14,7 @@ Breaking down z-tests, t-tests, and ANOVA with examples from my hospital patient
 
 ----
 
-### [demo 2](https://github.com/DhawaDG/ds_blog)
+### [**_demo_** 2](https://github.com/DhawaDG/ds_blog)
 *December 5, 2024 | 10 min read | 💻 Web Development*  
 A step-by-step guide to creating data applications, from SQLite integration to deployment.  
 **Tags:** #Streamlit #Dashboard #Python #WebDev #Tutorial
