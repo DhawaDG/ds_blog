@@ -7,7 +7,7 @@ You'll find posts on topics like Python, SQL, Machine Learning, Statistics, and 
 
 ## 🗂️ Blog Posts 
 
-### [demo 1](https://github.com/DhawaDG/ds_blog)
+### [**_demo_** 1](https://github.com/DhawaDG/ds_blog)
 *December 10, 2024 | 8 min read | 📊 Statistics*  
 Breaking down z-tests, t-tests, and ANOVA with examples from my hospital patient outcome analysis project.  
 **Tags:** #Statistics #HypothesisTesting #DataAnalysis #Tutorial
