@@ -20,7 +20,4 @@ A step-by-step guide to creating data applications, from SQLite integration to d
 **Tags:** #Streamlit #Dashboard #Python #WebDev #Tutorial
 
 ----
-[📚 **Read All Posts →**](https://github.com/DhawaDG/ds_blog)
-#### Explore tutorials, case studies, and data science insights from my learning journey.
----ce |
 
